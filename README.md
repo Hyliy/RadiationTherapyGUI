@@ -2,7 +2,7 @@
 
 This is a user interface designed to collect data for pair-wise comparisons between the DVHs of radiotherapy plans.
 
-The same user interface can be used to train radiotherapy planners in a interactive manner.
+The same user interface can be used to train radiotherapy planners in an interactive manner.
 
 While the current version is working OK, we are in the process of refining it.
 
