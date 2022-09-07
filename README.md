@@ -6,6 +6,8 @@ The same user interface can be used to train radiotherapy planners in an interac
 
 While the current version is working OK, we are in the process of refining it.
 
+If you would like to see examples of interactive display of DVH curves for pair-wise plan comparison without actually running the full program, you can find them in the folder "Examples". 
+
 
 
 This implementation requires the following packages:
