@@ -1,4 +1,4 @@
-# RadiationTherapyGUI
+# User interface for generating radiotherapy pairwise comparison data and gamified training on radiotherapy guidelines.
 
 This is a user interface designed to collect data for pair-wise comparisons between the DVHs of radiotherapy plans.
 
@@ -17,5 +17,8 @@ To run the entire GUI requires the following packages:
 3. PyQt5
 
 Python Version: 3.7 or later
+
+
+This is a project under development by Hung Yi Lee, Hongcheng Liu, and Bo Lu. 
 
 Please direct any comment or suggestions to Hongcheng Liu (liu.h@ufl.edu)
