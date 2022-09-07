@@ -1,6 +1,6 @@
 # User interface for generating radiotherapy pairwise comparison data and gamified training on radiotherapy guidelines.
 
-This is a user interfac eunder development by Hung Yi Lee, Hongcheng Liu, and Bo Lu.  The purpose is to collect data for pair-wise comparisons between the DVHs of radiotherapy plans. The same user interface can be used to train radiotherapy planners in an interactive manner. 
+This is a user interface under development by Hung Yi Lee, Hongcheng Liu, and Bo Lu.  The purpose is to collect data for pair-wise comparisons between the DVHs of radiotherapy plans. The same user interface can be used to train radiotherapy planners in an interactive manner. 
 
 Though still under development, the codes should be able to support the main functions successfully.
 
