@@ -1,6 +1,6 @@
 # User interface for generating radiotherapy pairwise comparison data and gamified training on radiotherapy guidelines.
 
-This is a user interface designed to collect data for pair-wise comparisons between the DVHs of radiotherapy plans.
+This is a user interfac eunder development by Hung Yi Lee, Hongcheng Liu, and Bo Lu.  The purpose is to collect data for pair-wise comparisons between the DVHs of radiotherapy plans. Though still under development, the codes should be able to support the main functions successfully.
 
 The same user interface can be used to train radiotherapy planners in an interactive manner.
 
@@ -18,7 +18,5 @@ To run the entire GUI requires the following packages:
 
 Python Version: 3.7 or later
 
-
-This is a project under development by Hung Yi Lee, Hongcheng Liu, and Bo Lu. 
 
 Please direct any comment or suggestions to Hongcheng Liu (liu.h@ufl.edu)
